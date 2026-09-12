@@ -11,7 +11,7 @@ import os
 import json
 from openai import OpenAI
 
-MODEL = os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile")
+MODEL = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b")
 
 _client = None
 
@@ -38,8 +38,7 @@ def call_agent(system_prompt: str, user_prompt: str, json_mode: bool = False) ->
     client = get_client()
 
     kwargs = {}
-    if json_mode:
-        kwargs["response_format"] = {"type": "json_object"}
+
 
     response = client.chat.completions.create(
         model=MODEL,
@@ -48,6 +47,8 @@ def call_agent(system_prompt: str, user_prompt: str, json_mode: bool = False) ->
             {"role": "user", "content": user_prompt},
         ],
         temperature=0.3,
+        reasoning_effort="low",
+        extra_body={"include_reasoning": False},
         **kwargs,
     )
     return response.choices[0].message.content
@@ -55,7 +56,7 @@ def call_agent(system_prompt: str, user_prompt: str, json_mode: bool = False) ->
 
 def call_agent_json(system_prompt: str, user_prompt: str) -> dict:
     """Convenience helper: calls the agent and parses the JSON response."""
-    raw = call_agent(system_prompt, user_prompt, json_mode=True)
+    raw = call_agent(system_prompt, user_prompt, json_mode=False)
     try:
         return json.loads(raw)
     except json.JSONDecodeError as exc:

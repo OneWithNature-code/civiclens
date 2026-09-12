@@ -53,7 +53,7 @@ def analyze():
     if not SAMPLE_DOC_PATH.exists():
         raise HTTPException(status_code=500, detail="Sample document not found.")
 
-    document_text = SAMPLE_DOC_PATH.read_text()
+    document_text = SAMPLE_DOC_PATH.read_text(encoding="utf-8")
 
     try:
         records = extract_clauses(document_text)
@@ -66,7 +66,7 @@ def analyze():
 @app.post("/api/report")
 def report(req: ReportRequest):
     """Runs the report agent on a single clause record."""
-    document_text = SAMPLE_DOC_PATH.read_text() if SAMPLE_DOC_PATH.exists() else ""
+    document_text = SAMPLE_DOC_PATH.read_text(encoding="utf-8") if SAMPLE_DOC_PATH.exists() else ""
 
     try:
         result = draft_report(req.clause, source_context=document_text)
