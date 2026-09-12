@@ -1,48 +1,660 @@
-CITY OF BROOKLYN DEVELOPMENT AREA — REZONING PACKAGE RMP-2031
-Municipal Council Document Extract — Public Filing 2031-C
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+14 
+3 ZONING REGULATIONS FRAMEWORK 
+ Planning Zones 3.1
+The Local Planning Area is divided into three Planning Zones i.e. Planning Zo ne A, Planning 
+Zone B and Planning Zone C, as per the following spatial extents for the consideration of 
+Development Control Regulations for the LPA: 
+i. Planning Zone A: consists of the area falling within the Outer Ring Road (ORR). 
+ii. Planning Zone B: consists of the area falling outside the ORR and upto the 
+Conurbation Limit of RMP 2031. 
+iii. Planning Zone C: consists of the area beyond the conurbation limit an d up to the 
+Boundary of LPA. 
+ Classification of Land into various Land Use Zones 3.2
+For the purpose of these regulations, the Local Planning Area of the Bangalore Development 
+Authority has been classified into the following Land Use Zones: 
+1. Residential (R) 
+2. Commercial (C) 
+3. Industrial (I) 
+4. Transport and Communications (T&C) 
+5. Public Utilities (PU) 
+6. Public and Semi-public (PSP) 
+7. Public and Semi-public – Unclassified (PSP-UC) 
+8. Open Spaces (OS) 
+9. Agriculture (A) 
+Notes: 
+i. Uses/ Activities permissible under special circumstances by the Authority in 
+different use zones provided that - 
+a) All changes are in public interest; 
+b) The Proposal for all such changes are published in at least two local daily 
+Newspapers (atleast one in Kannada) inviting objections/ suggestions fro m the 
+public within a period of not less than fifteen days from the d ate of publishing in 
+the Newspaper. 
+ii. Roads and Open Spaces are permitted in all use zones. 
+iii. Prior to giving permission for religious use and school or college bu ilding in 
 
-SECTION 4: BUILDING HEIGHT AND BULK REGULATIONS
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+15 
+different land use zones either under uses/ activities permissible or p ermissible 
+under special circumstances by the Authority, instructions given in Government 
+Circular No. Na A E 237 Be Ma Pra 2009 dated 19.09.2009 are to be followed. 
+iv. Uses permitted in all the above category of land use zones are subject to sp ace 
+standards as given in Table 25. 
+ Zonal Boundaries and Interpretation 3.3
+i. The exact location and specific regulations applicable for a particular Planning Zone 
+or Land Use Zone is to be verified from the Proposed Landuse Plans as detailed in the 
+Planning District Maps. The Planning Zone or Land Use Zone Boundary is u sually a 
+feature such as road, valley, village boundary etc and includes the immedi ate inner 
+edge of the area. 
+ii. Certain restrictions imposed by Competent Authorities are to be maintained as 
+͞ďuffeƌs͟ foƌ ǀaƌious eĐo -sensitive zones such as Arkavathi, TG Halli, Bannergatta 
+National Park/ Forest, Protected/ Reserved Forest, etc and water bodies such as 
+Lakes/Streams/ Drains which are marked on the proposed land use plans. In 
+addition, any other notifications or directions and applicable buf fers which may be 
+issued by the Competent Authority from time to time for such eco-sensiti ve areas 
+shall become applicable. 
+iii. The necessary NOCs with regard to the clearance/ buffer as applicable in case o f 
+Defence Establishments (within 100m from the boundary of such establi shment 
+notified under Works of Defence Act, 1903 and as amended from time to time ), Oil 
+and Gas Depots/ Pipelines shall be obtained by the applicant from the concerned 
+agency, wherever applicable, as per the provisions of the concerned agency. Th e 
+same requirements shall become applicable for any new utilities/ infrastructure lines 
+implemented over the Plan period. 
+iv. The Special Areas of Interventions such as Special Development Zones, ToD Zones, 
+Redevelopment Areas, Heritage Areas and Precincts, Station/ Transit Area 
+Improvement, Junction Improvements, shown in RMP 2031 refer to indicative area 
+in the city that need to be dealt with detailed action plan s and they serve as mere 
+informative tool on the plans. 
+v. Generally in case of uncertainty/discrepancy with regard to the planning zone or 
+land use zone boundary or their interpretation, alignment of the existing road, B 
+Kharab such as pathways/ cart track, and Stream/ Halla marked on the master pl an, 
+it shall be referred to the Authority for the final decision. Based on th e decision of 
+the Authority with regard to resolution of such discrepancies, the l and use zone of 
+the adjacent shall be applicable for such land. 
 
-4.1 Maximum Building Height, Fort Greene Overlay (FG-3)
-The maximum permitted building height within the Fort Greene Overlay District (FG-3) is
-increased from eighty-five (85) feet to one hundred twenty-seven (127) feet for any
-residential or mixed-use development that dedicates no less than twenty percent (20%) of
-total dwelling units to income-restricted affordable housing. This amendment applies to all
-parcels bounded by DeKalb Avenue, Vanderbilt Avenue, and the Fort Greene Park perimeter.
-Effective date: upon council ratification.
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+16 
+ Land Use Zone Categorisation 3.4
+i. The various Use Zones have been further categorised based on the nature and 
+intensity of use permitted in a particular category of Use Zone in a hierarchical 
+manner. 
+ii. The various categories under each Land Use Zone include: 
+(a) Residential Use Zone: R 
+(b) Commercial Use Zone: Category C-1 to C-5 
+(c) Industrial Use Zone: Category I-1 to I-4 
+(d) Transportation and Communication Use Zone: Category T-1 to T-4 
+(e) Public and Semi-public Use Zone: Category PSP-1 to PSP-4 
+(f) Public Utilities Use Zone: PU- the Public Utilities are allowed in all Use Zones 
+subject to space standards and necessary statutory clearances. 
+For example, C-4 – indicates C=Commercial and 4 th order within the Use Zone. The 
+C-4 list includes all uses/activities permissible specific to C-4 and the lower order 
+uses C-3, C-2 and C-1 permissible unless specifically mentioned. 
+iii. Though the various uses/ activities are listed, the corresponding space s tandards 
+for buildings/ uses are to be referred as given in Table- 25. The three main 
+parameters are planning zone, minimum size of plot and minimum width of the 
+existing road. 
+ 
+ 
 
-4.2 Ground-Floor Active Frontage Requirement, Clinton Hill Commercial Corridor
-All new construction and substantial renovations fronting designated commercial corridors in
-Clinton Hill must provide active, transparent ground-floor frontage occupying no less than
-sixty percent (60%) of the building's street-facing facade. Blank walls, parking structures,
-and storage facing the street are prohibited without a granted design variance.
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+17 
+4 GENERAL REGULATIONS APPLICABLE TO ALL LAND USE AND 
+PLANNING ZONES 
+This section of the Zoning Regulations covers the aspects that would be applicable for all the 
+land uses and planning zones unless otherwise specified. The aspects covered include 
+landuse, means of access, relinquishment of land for road, sub-division , amalgamation, 
+bifurcation, setback, FAR, ground coverage, height, buildings, parking, TDR etc. 
+ Land Use 4.1
+i. All permissions accorded by BDA or Government prior to these regulations coming 
+into force shall be treated as conforming uses irrespective of th e classification made 
+in the Revised Master Plan 2031. This is to be allowed on a case by case basis only. 
+ii. For change of land use under section 14- A or under section 69 of KTCP Act 1961 to 
+Non-Residential use, the minimum existing road width shall be 12.20 m. The change 
+of land use approved by Government/ Authority prior to notification of these 
+regulations under RMP-2031 shall remain valid irrespective of any change in th ese 
+regulations. 
+iii. In case of prohibited areas/ areas of special control (i.e., around certain monuments/ 
+critical/security installations/buildings, forests, eco-sensitive zones, NGT buffers) 
+even if the land use is designated in the proposals, the regulations for the prohibited 
+area zone prevails. 
+iv. Before permitting any uses permissible under special circumstances, the authority 
+shall publish the proposals calling for public objections in at least two leading local 
+daily newspapers giving stipulated time of fifteen days. The objectio ns received 
+within the stipulated period shall be placed before the authority and the reasons for 
+accepting/rejecting the objections shall be recorded in the proceed ings based on 
+which the authority may take appropriate decision. 
+v. Roads, Parks, playgrounds and open spaces may be permitted in all other land use 
+zones as permissible use. 
+vi. Different uses permitted in a given zone may be allowed in different floors of the 
+building. In such cases, the regulations applicable to the use of the ground floor of 
+the building shall apply to the entire building. If there is mixed land use in the ground 
+floor, the predominant use (higher area) among them shall be considered as t he use 
+of the ground floor. If the area under the two uses on the ground f loor is equal then 
+the use on the front side of the plot/ entry side shall be consider ed as the 
+predominant use. 
+vii. All cases of SEZ approved by Government of India (GOI) shall be considered for 
+clearance, irrespective of land use
+ classification subject to payment of fees under 
+section 18 of KTCP Act, 1961 and Environmental clearances as stipulated by MoEF, 
 
-4.3 Parking Minimum Reduction, Navy Yard Transit Corridor
-For residential developments located within a one-quarter (1/4) mile walking distance of a
-subway entrance in the Navy Yard Transit Corridor, the minimum required off-street parking
-ratio is reduced from 0.5 spaces per unit to 0.2 spaces per unit. Developers may apply
-remaining parking allocation toward bicycle storage or shared mobility infrastructure.
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+18 
+KSPCB and CPCB. 
+viii. No objection Certificate from the Deputy Commissioner of the district shall be 
+obtained before permitting buildings for places of worship vide Government Order 
+No.Kan.E.65: MuAaBi:2001, Dt. 24-12-2001. 
+ix. If the validity of the previous planning permission/ approval includin g permissible 
+renewal has lapsed at the time of coming into force of these regulation s, in such 
+cases afresh planning permissions/ approvals shall be taken under these regulations. 
+x. In case of buildings that have been permitted lawfully by BBMP or BDA and if 
+such structures are in obstruction to the alignment of the proposed roads in 
+RMP 2031, such road alignment shall be re-looked into by the authority and 
+decision may be taken suitably. 
+xi. In case of any error in the demarcation of roads in the Master Plan and t he actual 
+location of roads, and/or in exceptional circumstances if the proposed road 
+alignment is technically not feasible due to existing topographical cond itions and 
+requires amendment in the alignment, the same shall be rectified after veri fication 
+by the Authority. The neighboring land use shall be considered for the properties 
+abutting such roads in the Master Plan and the Authority shall tak e necessary action 
+as per Section 14A of KTCP Act, 1961 for the amendment in the road alignment and 
+change of land use in the Master Plan. 
+xii. In case of discrepancies in marking the revenue survey number, in such cases the 
+revenue records shall prevail, however, the land use as per RMP 2031 shall prevail. 
+xiii. The locations of HT Line/ Nallah/ Streams and Lakes shall be as per ground 
+conditions or revenue records and any discrepancies shall be rectified after the 
+verification by the Authority. In such cases adjoining land use shall be applicable. 
+ Means of Access and Minimum Width of Access 4.2
+i. Proposed road width shall be as in the Master Plan or as proposed by t he local 
+authority. If proposed road width is not specified for any existing road ( i.e. Roads 
+which are not proposed for widening) and, then the existing wid th shall be 
+considered as proposed width for applying the provisions related to the FAR a nd 
+other regulations. 
+ii. The centre line of the road fixed by the Authority/local Authorit y shall be considered 
+as the centre of the road. The Authority/ local Authority shall fix the cen tre line of all 
+roads having proposed width of 12 m and above. If the centre line is n ot fixed by the 
+Authority/ local Authority, the centre of the existing road shall be considered as the 
+centre of the road. 
+iii. While determining the width of the road the distance between the boundaries of 
+a road
+ including foot path, drains measured at right angles at the center of the plot 
+shall be considered. 
+iv. The minimum width of means of access shall be governed as per the following 
+provisions: 
 
-4.4 Affordable Housing Set-Aside, Bedford-Stuyvesant Growth Zone
-Any residential development exceeding fifty (50) total dwelling units within the
-Bedford-Stuyvesant Growth Zone must reserve no less than twenty-five percent (25%) of units
-as permanently affordable, calculated at sixty percent (60%) of Area Median Income (AMI) or
-below. Non-compliance will result in denial of certificate of occupancy.
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+19 
+(a) The means of access to the plot which would be other than 't hrough public roads 
+and street' (dead end road without any cross roads), shall not be of more than 30 
+m in length from the public road or street. 
+(b) The means of exclusive access which would be other than through public 
+roads or streets having more width than the public road or street, but less 
+than 30 m in length, then width of the public road or street shall be considered 
+for reckoning FAR. 
+(c) If the width of such access is of 3.5 m,4.5m and 6m, the F.A.R. and hei ght of 
+buildings coming up in such plots shall be regulated according to the width of the 
+public road or street for buildings of height upto G+1 fl oors or 7 m, upto G+2 
+floors or 10 m and G+3 floors or less than 15 m respectively. For Plots with area of 
+above 360 sqm in Planning Zone A and for Plots with area of abo ve 500 sqm in 
+Planning Zone B, the minimum width of such access shall not be less than 7.5 m 
+for granting the permission for Apartment Building/ Group Housing. 
+(d) If the width of access road is less than 3.5 m, then max floor area permitted in 
+such cases shall not exceed 150 sqm and 50 sqm in residential and 
+commercial zones respectively irrespective of the site area. 
+(e) If the length of means of access exceeds 30 m, F.A.R. and height of th e building 
+abutting such means of access shall be regulated with reference to the wi dth of 
+such means of access subject to a maximum FAR applicable for road to which 
+such means of access is connected. 
+(f) Access rights needs to be obtained before applying for any sanction/permission 
+for development. Documents to support the rights obtained needs to be 
+submitted along with the plan. 
+(g) In case of sub-divisions/ development plans, the provisions rel ated to minimum 
+width of means of access shall be applicable as defined in the regulations for sub-
+division/development plan. 
+(h) The proposed land use through which means of access is being taken, even if 
+owned by applicant, such land use shall be not treated as la nd use for the main 
+property. The Land Use as depicted in RMP 2031 shall be applicable to rest of the 
+property i.e after the means of access. 
+v. No construction may be permitted on plots abutting roads having less than 6m width 
+unless the portion of the plot required for road widening up to 6m width or to any 
+other required width prescribed in the Master Plan or by the Local Authority is 
+surrendered free of cost and can avail the FAR for the surrender portion. 
+vi. In case of roads having service roads in addition to the main roads th e width of road 
+shall be aggregate width of service roads and main roads for determining FAR and 
+height of the building. 
+vii. Every proposed road shall meet another road of equal or higher width. Fo r the 
+purpose of maintaining the road hierarchy, the Authority may direct the ap plicant(s) 
+submitting application for sub-division/ layouts or development plan or any other 
+approval to amend/ modify the road width proposed as part of the pl anning 
+permission sought to integrate the developments accordingly. 
+viii. In case of roads with varying widths, the existing road width shall be the average 
 
-SECTION 7: PUBLIC COMMENT SUMMARY (COUNCIL SESSION 2031-07-14)
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+20 
+width considered by taking road width measurements for the varying sections an d 
+applied with weighted average for the lengths of varying sections of the road. Such 
+road should lead to another road having the same or higher width. However, at any 
+point on that road, the width should not be less than 75% of the width considered as 
+existing width. If more than 50% of the length of the road with road width less than 
+75% of the average width is available, then the regulations applicab le for lower road 
+width shall be applicable. 
+ix. While developing a land, if for any reason, the road has to be stopped wit hout 
+continuation, and then Cul- de-Sac with turn around area of 9 m Radius at the end 
+shall be provided. 
+ Regulation related to Relinquishment of Land for Roads 4.3
+i. In case of plots facing the road proposed for widening, the portion of the plot 
+required for road widening as indicated in the Master Plan or as require d by the 
+Authority and/ or local authority, shall be handed over to the Autho rity and/ or local 
+authority free of cost by a relinquishment deed by the owner of the l and. The owner 
+shall be eligible for utilizing the applicable FAR on the land relinquished to the 
+Authority on the balance land left with the owner subject to ful filment of other 
+regulations. 
+ii. If additional portion of the abutting plot is required by the Authority or Local 
+Authority for providing free left lanes or splaying/ widening of road intersections or 
+for providing additional bus bay lanes, such portion of the plot shall be relinquished 
+to the Authority or the Local Authority, as the case may be, before sanction ing 
+building plan to such plots. The setback for the plot shall be considered from the 
+proposed road line only and not from the boundary of the additi onal portion of the 
+plot surrendered for the development of road intersection or bus b ays, as 
+mentioned in this clause. 
+iii. Where upper floors are permitted over the existing buildings which are sanct ioned 
+prior to the coming into force of RMP 2031, the upper floors shall be per mitted only 
+after the applicant surrenders the portion of the plot and buildi ng, if required for 
+road widening, free of cost by a relinquishment deed. The owner shall be eligible for 
+utilizing the applicable FAR on the land relinquished to the Authority on the balance 
+land left with the owner subject to fulfilment of other regulations. 
+iv. In case of alterations to existing buildings is sanctioned by the Local Aut hority, the 
+applicant shall surrender the portion of the plot required for road widening to the 
+Local Authority, free of cost, by a Relinquishment Deed, , before sancti on is 
+accorded. The owner shall be eligible for utilizing the applicable FAR o n the land 
+relinquished to the Authority on the balance land left with th e owner subject to 
+fulfilment of other regulations. 
+ 
 
-Residents submitted 2,408 comments regarding the proposed amendments in Section 4.
-Recurring themes, in order of frequency:
-  1. Concern that height increases in FG-3 will accelerate rent pressure on adjacent
-     rent-stabilized buildings, despite the affordability set-aside.
-  2. Concern regarding construction-phase disruption: noise, dust, and multi-year
-     timelines affecting small businesses along DeKalb Avenue.
-  3. Requests for a formal shadow study before any height variance is finalized, citing
-     impact on Fort Greene Park's afternoon sunlight exposure.
-  4. Support for the parking minimum reduction in the Navy Yard corridor, citing existing
-     transit access and a desire for less car-dependent development.
-  5. Requests for clearer enforcement mechanisms behind the Bedford-Stuyvesant set-aside,
-     citing past instances of developers paying in-lieu fees rather than building
-     affordable units on-site.
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+21 
+ General Conditions for Planning Permission, Sub-division, Amalgamation and 4.4
+Bifurcation of Plot/Site 
+i. For according any development/ building permission, the conversion of pl ot/ land 
+from Agricultural to Non-agricultural Use under the Revenue Act is mandatory. 
+ii. Following the conversion of plot from Agricultural to Non-agricultu ral Use, it shall be 
+mandatory for the applicant to obtain the Planning permission from BDA prior to 
+applying for the Building Plan Approval irrespective of the size of plot/land. 
+iii. The Subdivision shall be governed as per the following regulations: 
+(a) The approval of Layout Plan is subject to the condition that the proposal 
+satisfies all
+ the requirements stipulated under section 17 of K.T.C.P Act, 1961 
+and a l so Section 32 of BDA Act, 1976. 
+(b) The Authority reserves the right to modify the layout (residential layout or 
+non-residential layout) submitted by the applicant / owne r and may impose any 
+conditions either from planning point of view or in the i nterest of public 
+considering the safety, security, environment and aesthetics. 
+(c) The applicant shall be required to adhere to the rules and r egulations framed by 
+the government from time to time in this regard. 
+iv. The Amalgamation shall be regulated as per the following provisions. 
+(a) Ownership of the amalgamated plot could be in single or multipl e names/family 
+members/ company. But, amalgamation shall not be considered i f the plots are 
+under lease agreement. Also, the plots earmarked for EWS shall not be 
+amalgamated except where the Authority/ Local Authority is executi ng the 
+scheme for EWS Housing 
+(b) Development controls for the amalgamated plot shall be with refe rence to new 
+extent and dimensions. 
+(c) Properties having different land uses may be amalgamated into single prop erty. 
+However, if park and open spaces, roads, public and semi-public, public utilities 
+or agricultural zones outside the conurbation area are part of the amalgamated 
+property then the uses permitted in these zones only shall be developed i n such 
+proportions of the property by actual measuring with respect to Master Plan 
+drawings. 
+(d) If any portion of the amalgamated properties has been relinquished f ree of cost 
+for road widening, then the regulations applicable for the land use of the plot 
+abutting the road shall be applicable for the entire amalgamated propert y 
+(except for the land uses for the portions falling under agricultu ral zone outside 
+the conurbation area, park and open spaces, roads, public and semi-public, 
+public utilities) and in other cases of amalgamation, the regulations applicable for 
+the lower land use ( The order of land use from lower to higher shall be 
+industrial, residential, commercial) among the amalgamated plots shall only b e 
+permitted. In such cases, the owner shall be eligible utilizing for t he applicable 
+FAR on the land relinquished to the Authority on the balance land left with the 
+owner subject to fulfilment of other regulations. 
 
-END OF EXTRACT.
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+22 
+(e) Any of the individual plot which was used as part of the Amalgamated p lot for 
+becoming eligible for higher FAR shall not be permitted for approval as 
+individual plot unless the higher FAR claimed as a result of amalgamati on for 
+amalgamated plot is cancelled / withdrawn. 
+(f) The plots falling in unauthorized developments shall be considered f or 
+amalgamation only if such plots fulfil the requirements of these re gulations as 
+well as that of the rules framed under Section 17 of the Act, after amalgamation. 
+v. The Bifurcation shall be governed as per the following provisions. 
+(a) Bifurcated plot area shall not be less than 50 sqm. 
+(b) The bifurcated plot shall have a minimum of 6 m frontage. 
+(c) Bifurcated plot shall have a minimum 3 m access. 
+(d) In the case of all bifurcations, whether corner site or intermediate site, fro nt 
+setback for the resulting site abutting the road shall be the same as that of the 
+original site and not that of the subdivided site. 
+(e) A Plot/ Site which is a part of the sub division plan/layout/schem e duly approved 
+by the Authority may be further bifurcated with prior permission of the Authority 
+and the sub-divided plot shall not be less than the prescribed size in (a) above. 
+ Setbacks and Distance between Buildings 4.5
+Setback all-round the building shall be provided for all floors of the buildin g as prescribed in these 
+regulations: 
+i. Front setback is essentially with regard to the road width and height of the building 
+and side and rear setbacks are with reference to the height of the bu ilding as 
+prescribed in Table 1 and 2. 
+ii. The maximum height of the building shall not exceed 1.5 times the widt h of abutting 
+road plus the front setback, subject to the requirement of front op en space of a 
+maximum of 16 m. 
+iii. If a building abuts on two or more roads of different widths, the b uilding shall be 
+deemed to face upon the road that has higher road width and the h eight of the 
+building shall be regulated by the width of that road. 
+iv. Front setback should be provided in the remaining plot after deduct ing area for road 
+widening as proposed in the Master Plan or as proposed by the BBMP. If the road 
+widening is not applicable to the plot, the front setback shall be provided from the 
+Front boundary of the plot. 
+v. The setbacks shall be provided in the owners plot. Public open spaces o r 
+conservancies should not be considered as setbacks. 
+vi. The front setback or the building line (as defined in Table 1) wh ichever is higher shall 
+be considered as the front setback of the building. Also, no portio n of the building 
+shall project, either below the ground or above the ground beyond the building line. 
+vii. In the case of corner plots, both the sides facing the road shall be trea ted as front 
+side and regulations applied accordingly. 
+
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+23 
+viii. In case of plot facing roads on more than one side of the plot, the sides facing roads 
+from which approach is provided to the plot shall only be treated as front and other 
+sides shall be treated as rear/ sides and the setbacks be applied accordingly and FAR 
+should be computed based on the road width which is considered as front. 
+ix. When the road widening work is undertaken by the Authority /BBMP to a width 
+equal to or less than that prescribed in the Master plan and if any bu ilding has to be 
+partly or fully demolished for the road widening, the reconstruction of the remaining 
+portion of the building may be permitted abutting the road widenin g line without 
+providing front setbacks. However, such reconstructed building shall n ot have plinth 
+area more than that of the original plinth area of the building and shall be 
+reconstructed only upto the ground and first floor. In case the ow ner intends to 
+construct upper floors to such buildings, permission shall be granted on ly if the 
+portion of the building constructed in the front setback area is de molished. This 
+relaxation shall not be available if the owner of the building is proposing to construct 
+a new building as per the provisions of these regulations. This relaxati on shall be 
+permitted only during the period of widening work of the partic ular road is 
+undertaken by the Authority / BBMP and shall not be available in other situations. 
+The above-mentioned relaxation shall be available only if no compensat ion including 
+DR is availed for the portion of the building demolished. The provis ion of this clause 
+shall be decided by the Authority/ BBMP on a case to case basis .The Autho rity/ 
+BBMP shall maintain a register showing details of all such buildings (existing and 
+proposed), for which permission has been granted with such relaxation. 
+x. For residential buildings sites upto 120 sqm an open staircase may be permitted in 
+the side or rear setbacks. 
+xi. For Residential building sites upto 60 sqm W.C with of 1 m x 1 .2 m may be 
+permissible in rear set back. 
+xii. For Residential Buildings when minimum set back of 1 .5 m is left on any side (except 
+front), a scooter garage may be permitted on this side set back at the back side 
+limiting the depth of the garage to 2.5 m. 
+xiii. The following constructions may be permitted within the setback area without 
+affecting the required driveway around the building as prescribed in these 
+regulation: 
+(a) Pump room; 
+(b) Generator with outdoor acoustic enclosure (within permissible noise le vel) and 
+the height of the exhaust pipe should be 3 m above the neighbouring b uilding 
+adjacent to the generator or as prescribed by the Competent Authority; 
+(c) Watch man's cubicle not more than 4 sqm at the entry/ exit point and fire 
+control room (maximum 4 m x 4 m) (no setback from the boundary); 
+(d) Sump tanks below the ground level; 
+(e) Sewage Treatment Plant below ground level; 
+(f) Solid waste drying yard/ organic waste converter; 
+(g) Children's play area; 
+(h) Transformer / power substation (no setback from the boundary is required if 
+
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+24 
+permissible under the rules of Competent Authority) and other services; 
+(i) Any other ancillary utility services provided for the building; 
+(j) Open well and bore wells; 
+(k) R.C.C. ramps for vehicular movement around the building upto a width of 6 m 
+may be permitted to be constructed within the setback for the vehi cular 
+movement around the building and for entry to the parking areas with in the 
+building; 
+(l) Architectural features which are not usable for living or storage purposes without 
+hindering the driveway requirements of the buildings prescribed in these 
+regulations. Such projections shall not be within 5m height from the ground floor 
+level, if such projections are proposed within the driveway area; 
+(m) Cantilever porches, steps and corridor to ground floor entry; and 
+(n) Car parking in basement structures subject to applicable restrictions. 
+ For non-high-rise Buildings items a, b, c, d ,e, f, g and j may be permitted abutting 
+the building with 1 m setback from the boundary. 
+xiv. Exemptions/Projections in setbacks: 
+(a) Every open space provided either interior or exterior shall be kept free from an y 
+erection thereon except as provided herein and shall be open to the sky and no 
+weather shade or cornice roof more than 0.75 m wide or l/3 rd of open space 
+whichever is less shall over hang or project over the said open space. 
+(b) A portico/ porch may be permitted in the ground floor within the setb ack. No 
+access is permitted to the top of the portico for using it as a sit o ut. The size of 
+the cantilever portico is restricted to 3 m x 4.5 m. In case of high ri se buildings 
+cantilever portico is allowed as per the Fire Norms. The portico when al lowed 
+shall have a clear open space of 1 m from the boundary of the property and i n 
+case of high-rise buildings such portico should have a minimum clear height of 
+5.5 m and a vehicle passage width of 6 m, if such portico/ porch projects in to the 
+mandatory driveway of 6 m. 
+(c) The projection of the balcony shall be measured perpendicular to the ou ter wall 
+of building up to the outermost edge of the balcony. Cantilever pr ojection of the 
+balcony shall be permitted into the prescribed setback area (as per Table 1 or 
+Table 2 as applicable) only upto l.2m or l /3 rd of such setback, whichever is less. 
+No balcony is allowed at the ground floor level into the prescribed setb acks. In 
+case of high-rise buildings, no projection is allowed upto 5.5 m verti cal clearance 
+from ground level into the minimum prescribed setback area. 
+(d) If more than 25% of the depth of the property is required to be surre ndered for 
+road widening, reduction in the rear/ side set back upto 50% shall be allowed for 
+the remaining portion of the plot, subject to a minimum of 1.0 m setb ack for 
+non-high-rise buildings 
+(e) Only 50% of the setback provided in Table 2 shall be required for i ndependent 
+MLCP or MLCP attached to any building subject to a minimum of 6 m in case o f 
+buildings of more than G+4 floors or 15 m and more height, whichever is l ess. 
+Relaxation of setbacks shall be available only for the MLCP portion of the building 
+in case of MLCP being attached to any side/s of the building. 
+
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+25 
+(f) For garages as prescribed in clauses on garages in this section. 
+xv. If the proposed road width is 2 times or more than the existing width of the road, the 
+front setbacks shall stand reduced to 50% of the setbacks prescribed in Table 2 for 
+non-high-rise buildings and 25% for high rise buildings, subject to the minimum 
+setback provided as per Table 1. The reduction in front setback shall be applicable 
+for the existing structure only, if any, falling along the proposed new roads at the 
+time of survey of the alignment. 
+xvi. Upto Ground floor and one upper floor buildings, no side setbacks shal l be insisted 
+upon only in the case of reconstruction of existing building w here traditional row 
+housing type of development exists. 
+xvii. In case of irregular plots, except the front setback, the side and rear set backs at any 
+critical point shall not be less than 75% of the setbacks prescribed in Table 2 subject 
+to a minimum of 6 m for buildings above 15 m height. However, the total set back 
+area provided shall not be less than the setback area required by provid ing the 
+setback as per Table 1 and Table 2, as applicable. The area of the po rtion of the 
+building projected into the required setbacks as per Table 2 shall not be more than 
+5% of the total setback area required by providing the setbacks as per Table 1 and 
+Table 2, as applicable subject to maximum ground coverage norms applicable for 
+respective land uses. 
+Illustration 
+ 
+xviii. For more than one building on a given site, the distance between the buildings 
+shall be
+ 1/2 the height of the tallest building or 16 m, whichever is lower, between 
+the buildings under consideration. 
+xix. In case, two or more buildings with different heights are proposed on a single site, 
+then setbacks shall be applied with reference to the tallest building. 
+xx. In case two or more structures are connected, these shall be trea ted as single 
+building/ block only if atleast one third of the width of any one structure on the 
+connecting side is solidly connected to other structure. Any i nterconnecting link 
+
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+26 
+between the structures through connecting corridor only sh all not be treated as a 
+single building/ block, and the provisions related to d istance between the buildings 
+shall be applicable in such cases. 
+ 
+Table 1: Minimum Front setbacks for all types of buildings with respect to road width 
+Sl. no. Road width (m) Minimum Front 
+Setback (m) 
+Building line from 
+Centre of road (m) 
+1 6.0 1.0 4.0 
+2 7.5 1.0 4.75 
+3 9.0 1.75 6.25 
+4 12.0 2.0 8.0 
+5 15.0 2.5 10.0 
+6 18.0 3.5 12.5 
+7 24.0 3.5 15.5 
+8 30.0 4.0 19.0 
+9 45.0 6.0 28.5 
+10 60.0 6.0 36.0 
+ 
+ 
+
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+27 
+Table 2: Minimum Setbacks for All Types of Building (Except Industrial Buildings) with 
+respect to the Height of the Buildings 
+Sl.
+no 
+Max. No. 
+of floors 
+Height of Buildings 
+(m) 
+Plot Area (sqm) 
+Minimum set backs 
+Front(m) Rear and 
+Sides(m) 
+1 G+1 
+Below 9.5 
+Upto 60 1.0 0.5 
+2 G+1 or 
+Stilt+2 
+Above 60 upto 120 1.0 1.0 
+3 G+2 or 
+Stilt+3 
+9.5 and below 12.5 Above 120 upto 
+240 
+2.0 2.0 
+4 G+3 or 
+Stilt+4 
+12.5 and below 15 Above 240 upto 
+360 
+3.0 3.0 
+5 G+4 or 
+Stilt+4 
+Below 15 Above 360 4.0 4.0 
+6 G+5 Above 15 upto 18 6.0 6.0 
+7 G+6 Above 18 upto 21 7.0 7.0 
+8 G+7 Above 21 upto 24 8.0 8.0 
+9 G+8 Above 24 upto 27 9.0 9.0 
+10 G+9 Above 27 upto 30 10.0 10.0 
+11 G+11 Above 30 upto 36 11.0 11.0 
+12 G+13 Above 36 upto 42 12.0 12.0 
+13 G+15 Above 42 upto 48 13.0 13.0 
+14 G+17 Above 48 upto 54 14.0 14.0 
+15 G+19 Above 54 upto 60 15.0 15.0 
+16 Above 
+G+19 
+Above 60 16.0 16.0 
+Note: - The number of floors mentioned in Table 2 is excluding Basement Floors. The height of stilt 
+floor shall be counted towards the height of the building. 
+
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+28 
+ Ground Coverage 4.6
+i. The Ground Coverage is the total area covered by building immediately above the 
+plinth level. 
+ii. The areas under pump house not exceeding 3 sqm, swimming pool, sump tank, 
+electric substation/ transformer, generator with enclosure, f ire control room 
+(maximum 4 m x 4 m) and security room (2 m x 2 m) if provided outside t he plinth of 
+the building for plots of more than 4000 sqm and utilities are n ot considered for the 
+coverage. 
+iii. The required area for road widening shall be deducted for c onsidering ground 
+coverage of the plot. 
+iv. The maximum ground coverage for different land uses are covered as p art of 
+regulations for respective land uses. 
+ Floor Area Ratio (FAR) 4.7
+i. The ratio of the Floor Area on all floors of the building, exclud ing the exemptions 
+provided under (ii) below, to the plot area is FAR. 
+ii. The following constructions are excluded from FAR computation: 
+(a) Area reserved for services such as electrical substation/ panel room, generator, 
+pump room, AC plant room, solid waste management, fire control room, 
+security/CCTV room etc. 
+(b) Refuge areas provided in high rise buildings as per fire safety norms 
+(c) A separate public toilet block provided in the non-residential complex/ plot. 
+(d) Building management/society room with a maximum size of 40 sqm 
+(e) Staircase / staircase room 
+(f) Architectural features which are not usable for living or other purposes 
+(g) Chimneys 
+(h) Ventilation ducts and Garbage shafts 
+(i) Ducts 
+(j) Parking areas including driveways and ramps 
+(k) Swimming pools and toilets attached to swimming pools constructed i n open 
+yard or in any floor for common use by the residents/ users. 
+(l) Overhead tanks 
+(m) Escalators 
+(n) Lift wells and lift machine room 
+(o) Watch man's cubicle not exceeding 4 sqm areas 
+(p) Sewerage Treatment Plant as specified by KSPCB and pump rooms. 
+iii. When the site does not face the road of required width provided against the plot size 
+range, then the FAR applicable to the corresponding width of the roads shall apply. 
+iv. Where a plot faces a wider road than the one prescribed against a particular p lot 
+size, the FAR shall be restricted only to the limit prescribed for the area of the plot. 
+
+ Revised Master Plan for Bengaluru - 2031 (Draft) 
+ 
+29 
+v. Proposed road width shall be as in the Master Plan or as proposed by t he local 
+authority. If proposed road width is not specified for any existing road ( i.e. Roads 
+which are not proposed for widening), then the existing width shall be considered as 
+proposed width for applying the provisions of the FAR and other Regulations. 
+vi. FAR shall be calculated for the entire plot area without deducting the portion 
+surrendered for road widening, if DR or any other form of compensation is not 
+claimed / availed for the portion of the plot surrendered for road widening. 
+vii. If a plot abuts two or more roads of different widths, then the FAR for the building 
+shall be regulated according to the width of the road from which m ain motorable 
+access to the plot is proposed. 
+viii. All bus terminals shall be eligible for an FAR as applicable to commercial zo ne. The 
+minimum area for the bus terminal shall be 4000 sqm. 
+ix. The FAR for respective land uses are covered under sections on regulations for 
+residential development and non -residential development . 
+x. The FAR has been classified into (a) Base FAR and (b) FAR Allowable against TD R/ any 
+other rules (example premium FAR/ purchasable FAR as may be enacted by the 
+Government and necessary rules are framed and notified). The sum of these two 
+FARs is the maximum allowable FAR and shall be the total FAR that can be consumed 
+subject to fulfilment of other regulations, except where specific exemptions are 
+provided in these regulations such as in case of areas surrounding Metro Stations. In 
+case of projects implemented by the Authority or the BBMP, the total maximum 
+allowable FAR shall be considered as a Base FAR. 
+ 
+ Height of Building 4.8
+i. Height of the building shall be considered as per the definition prescribed in these 
+regulations. 
+ii. The following constructions are exempted while calculating the height of building: 
+(a) Slabs casted/ structures constructed above the terrace floor exclusively for 
+providing services such as AC chiller plants, solar panels, radio antennas, lif t 
+machine rooms, overhead tanks and staircase headroom cover slabs (upto a 
+maximum height of 3 .5 m), chimneys, parapet walls (upto 1.2 m in height) and 
+other architectural features shall not be included in the height of the building. 
+(b) The internal open space may be covered on top to prevent rain water from 
+entering the building. This construction shall not be considered for the height of 
+the building. The height of such structure shall not exceed 2 m. 
+(c) For calculating the height limitation prescribed in the vicinity of Aerodromes, the 
+overall height of the building including that of the above detail s shall be 
+considered. 
+iii. The height of buildings and other structures within the BMA shall be within the limits 
+prescribed by the various Airport Authorities with different Air Funnel Zones. 

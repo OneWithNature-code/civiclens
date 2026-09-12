@@ -6,7 +6,10 @@ and citizen response campaigns.
 
 ## What this is
 
-CivicLens runs a three-agent pipeline over a real municipal zoning document:
+CivicLens runs a three-agent pipeline over a real municipal zoning document — an
+excerpt of the Bangalore Development Authority's **Revised Master Plan for
+Bengaluru 2031 (Draft)**, a real 206-page government planning document (PDF
+sourced and parsed by teammate [@dhruvphutane-stack](https://github.com/dhruvphutane-stack)):
 
 1. **Extraction agent** reads raw zoning/council text and parses it into structured,
    confidence-scored clause records (id, title, affected area, category, plain-language
@@ -32,8 +35,11 @@ demand.
   same source document used by the report and campaign agents, so nothing is invented
   independently at each stage.
 - **Scoped for a real demo, not a slideware pitch.** Rather than claiming to handle
-  "massive city data dumps" with no evidence, this ships one real sample zoning document
-  end-to-end through all three agents, so judges can watch it actually work.
+  "massive city data dumps" with no evidence, this ships a real ~40,000-character
+  excerpt (Zoning Regulations Framework and General Regulations sections) from the
+  actual Bengaluru Development Authority's Revised Master Plan 2031 (Draft) — a real
+  government planning document, not invented text — through all three agents so
+  judges can watch it actually work.
 
 ## Architecture
 
@@ -52,7 +58,7 @@ backend/server.py            FastAPI app, 3 endpoints
 llm_client.py                 Shared wrapper around Groq's chat completions API
         |
         v
-sample_data/zoning_sample.txt Sample zoning document (real-style council extract)
+sample_data/zoning_sample.txt Real excerpt from Bengaluru's RMP 2031 draft master plan
 ```
 
 ## Running it
@@ -89,6 +95,13 @@ It talks to `http://localhost:8000` by default — override by setting
 4. Click **Generate resident response campaign** — the campaign agent drafts a kit
    grounded in that clause and report.
 
+## Demo recording
+
+[Add a link or embed here to a 30-60 second screen recording of the pipeline
+running end to end — Run analysis → select a clause → draft impact report →
+generate campaign kit. This lets anyone reviewing the repo see it actually
+work even if they don't run it themselves.]
+
 ## Judging criteria mapping
 
 | Criterion | How this addresses it |
@@ -101,7 +114,8 @@ It talks to `http://localhost:8000` by default — override by setting
 
 ## Known limitations (be upfront about these if asked)
 
-- Single sample document, not a full ingestion pipeline for arbitrary file formats/scale.
+- Single document excerpt (~40,000 characters), not a full ingestion pipeline for
+  arbitrary file formats or the full 206-page source document at scale.
 - No persistent database — state lives in the browser session.
 - No auth — this is a demo, not a production deployment.
 - Sentiment/map panels on the overview page are illustrative rather than derived from the
