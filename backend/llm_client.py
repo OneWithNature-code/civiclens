@@ -32,14 +32,14 @@ def get_client() -> OpenAI:
 def call_agent(system_prompt: str, user_prompt: str, json_mode: bool = False) -> str:
     """
     Runs one agent step. Returns the raw text content of the model's reply.
-    If json_mode=True, asks the model to return only valid JSON and the caller
-    is expected to json.loads() the result.
     """
     client = get_client()
 
     kwargs = {}
+    if json_mode:
+        kwargs["response_format"] = {"type": "json_object"}
 
-
+    # Fixed: Removed OpenAI-specific reasoning parameters that Groq rejects
     response = client.chat.completions.create(
         model=MODEL,
         messages=[
@@ -47,8 +47,6 @@ def call_agent(system_prompt: str, user_prompt: str, json_mode: bool = False) ->
             {"role": "user", "content": user_prompt},
         ],
         temperature=0.3,
-        reasoning_effort="low",
-        extra_body={"include_reasoning": False},
         **kwargs,
     )
     return response.choices[0].message.content
@@ -56,8 +54,14 @@ def call_agent(system_prompt: str, user_prompt: str, json_mode: bool = False) ->
 
 def call_agent_json(system_prompt: str, user_prompt: str) -> dict:
     """Convenience helper: calls the agent and parses the JSON response."""
-    raw = call_agent(system_prompt, user_prompt, json_mode=False)
+    raw = call_agent(system_prompt, user_prompt, json_mode=True)
     try:
-        return json.loads(raw)
+        # Clean up common LLM markdown blocks if present
+        clean_raw = raw.strip()
+        if clean_raw.startswith("```json"):
+            clean_raw = clean_raw[7:]
+        if clean_raw.endswith("```"):
+            clean_raw = clean_raw[:-3]
+        return json.loads(clean_raw.strip())
     except json.JSONDecodeError as exc:
         raise RuntimeError(f"Agent did not return valid JSON:\n{raw}") from exc

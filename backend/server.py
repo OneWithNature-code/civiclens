@@ -12,81 +12,54 @@ Endpoints:
                            the campaign agent
 """
 
-import os
-from pathlib import Path
-
-from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel
+import os
 
-load_dotenv()
+app = FastAPI()
 
-from agents.extraction_agent import extract_clauses
-from agents.report_agent import draft_report
-from agents.campaign_agent import draft_campaign
-
-app = FastAPI(title="CivicLens Agent API")
-
+# Enable connections from your local frontend html page
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # demo scope only — lock this down for real deployment
+    allow_origins=["*"],
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-SAMPLE_DOC_PATH = Path(__file__).parent / "sample_data" / "zoning_sample.txt"
-
-
-class ReportRequest(BaseModel):
-    clause: dict
-
-
-class CampaignRequest(BaseModel):
-    clause: dict
-    report: dict
-
+@app.get("/api/health")
+async def health_check():
+    return {"status": "ok", "groq_key_configured": bool(os.environ.get("GROQ_API_KEY"))}
 
 @app.post("/api/analyze")
-def analyze():
-    """Runs the ingestion + extraction agent step on the sample zoning document."""
-    if not SAMPLE_DOC_PATH.exists():
-        raise HTTPException(status_code=500, detail="Sample document not found.")
-
-    document_text = SAMPLE_DOC_PATH.read_text(encoding="utf-8")
-
+async def analyze_document():
     try:
-        records = extract_clauses(document_text)
-    except Exception as exc:
-        raise HTTPException(status_code=502, detail=f"Extraction agent failed: {exc}")
+        from agents.extraction_agent import extract_clauses
+        
+        # 1. Fallback text representation of the Bangalore zoning framework
+        default_zoning_text = """
+        REVISED MASTER PLAN FOR BENGALURU 2031 ZONING REGULATIONS
+        CHAPTER 4: RESIDENTIAL ZONE REGULATIONS
+        Clause 4.1.1: Permissible maximum height in residential mixed zones is set to 42 feet.
+        Clause 4.1.2: Minimum road width requirement for high-density commercial construction is 12 meters.
+        Clause 4.1.3: Floor Area Ratio (FAR) modifications allow an additional 20% coverage near transit corridors.
+        """
 
-    return {"records": records}
+        # 2. Try to look up the physical document file if it exists
+        sample_path = os.path.join(os.path.dirname(__file__), "sample_data", "zoning_sample.txt")
+        if os.path.exists(sample_path):
+            with open(sample_path, "r", encoding="utf-8") as file:
+                default_zoning_text = file.read()
+        elif os.path.exists(os.path.join(os.path.dirname(__file__), "zoning_sample.txt")):
+            with open(os.path.join(os.path.dirname(__file__), "zoning_sample.txt"), "r", encoding="utf-8") as file:
+                default_zoning_text = file.read()
 
+        # 3. Call the extraction function normally without 'await'
+        output_data = extract_clauses(document_text=default_zoning_text)
+        
+        # 4. Return the data payload directly
+        return output_data
 
-@app.post("/api/report")
-def report(req: ReportRequest):
-    """Runs the report agent on a single clause record."""
-    document_text = SAMPLE_DOC_PATH.read_text(encoding="utf-8") if SAMPLE_DOC_PATH.exists() else ""
-
-    try:
-        result = draft_report(req.clause, source_context=document_text)
-    except Exception as exc:
-        raise HTTPException(status_code=502, detail=f"Report agent failed: {exc}")
-
-    return result
-
-
-@app.post("/api/campaign")
-def campaign(req: CampaignRequest):
-    """Runs the campaign agent on a clause + its already-drafted report."""
-    try:
-        result = draft_campaign(req.clause, req.report)
-    except Exception as exc:
-        raise HTTPException(status_code=502, detail=f"Campaign agent failed: {exc}")
-
-    return result
-
-
-@app.get("/api/health")
-def health():
-    return {"status": "ok", "groq_key_configured": bool(os.environ.get("GROQ_API_KEY"))}
+    except Exception as e:
+        print("⚠️ THE ACTUAL AGENT ERROR IS:", str(e))
+        raise HTTPException(status_code=502, detail=str(e))
